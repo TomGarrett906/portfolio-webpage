@@ -4,6 +4,7 @@ import About from "./components/About";
 import Certification from "./components/Certification";
 import Work from "./components/Work";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -16,6 +17,8 @@ function App() {
     <Certification />
     <Work />
     <Contact />
+    <Footer />
+    
 </div>
     
     

@@ -8,10 +8,10 @@ const Work = () => {
     <div name="work" className="w-full md:h-screen text-[#0a192f] bg-[#f7c857]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 text-[#0a192f] border-[#ffffff]">
+          <p className="text-4xl font-bold inline border-b-4 text-[#0a192f] border-[#5778a5]">
             Work
           </p>
-          <p className="py-6">Check out some of my recent work</p>
+          <p className="py-6">Check out some of my recent work :</p>
         </div>
         {/* CONTAINER */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 rounded-md">
@@ -22,10 +22,10 @@ const Work = () => {
           {/* GRID ITEM */}
         <div 
           style={{backgroundImage: `url(${aDJ})`}} 
-          className="shadow-lg shadow-[#f7c857] group container rounded-md flex justify-center items-center mx-auto content-div">
+          className="hover:shadow-white hover:scale-105 duration-500 shadow-md shadow-[#000000] group container rounded-md flex justify-center items-center mx-auto content-div">
 
             {/* HOVER EFFECT */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-[#ffffffbd] tracking-wider">
                 Gig Trakr (coming soon)
               </span>
@@ -50,10 +50,10 @@ const Work = () => {
           {/* GRID ITEM */}
         <div 
           style={{backgroundImage: `url(${f1Start})`}} 
-          className="shadow-lg shadow-[#f7c857] group container rounded-md flex justify-center items-center mx-auto content-div">
+          className="hover:shadow-white hover:scale-105 duration-500 shadow-md shadow-[#000000] group container rounded-md flex justify-center items-center mx-auto content-div">
 
             {/* HOVER EFFECT */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-[#ffffffbd] tracking-wider">
                 Formula 1 API (coming soon)
               </span>
@@ -79,10 +79,10 @@ const Work = () => {
           {/* GRID ITEM */}
         <div 
           style={{backgroundImage: `url(${sky})`}} 
-          className="shadow-lg shadow-[#f7c857] group container rounded-md flex justify-center items-center mx-auto content-div">
+          className="hover:shadow-white hover:scale-105 duration-500 shadow-md shadow-[#000000] group container rounded-md flex justify-center items-center mx-auto content-div">
 
             {/* HOVER EFFECT */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-[#ffffffbd] tracking-wider">
                 Weather API (coming soon)
               </span>
