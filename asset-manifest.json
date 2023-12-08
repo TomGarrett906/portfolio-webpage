@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.8838d697.css",
-    "main.js": "/portfolio-website/static/js/main.4c3899f3.js",
-    "static/media/a-dj.png": "/portfolio-website/static/media/a-dj.eddeeb2a683ff0c9bc48.png",
-    "static/media/f1start.png": "/portfolio-website/static/media/f1start.2c5536910a633ef8241b.png",
-    "static/media/sky.png": "/portfolio-website/static/media/sky.22336af5c76510ad1552.png",
-    "static/media/javascript-certified.png": "/portfolio-website/static/media/javascript-certified.0676c91c0659260a79a4.png",
-    "static/media/nodejs-certified.png": "/portfolio-website/static/media/nodejs-certified.a11ab69e488c095d9188.png",
-    "static/media/react-certified.png": "/portfolio-website/static/media/react-certified.220fa9d540380f833bf8.png",
-    "static/media/sql-certified.png": "/portfolio-website/static/media/sql-certified.dd258341771d4928edf3.png",
-    "static/media/css-certified.png": "/portfolio-website/static/media/css-certified.12c4d4c25d8cc7effe2a.png",
-    "static/media/flask-certified.png": "/portfolio-website/static/media/flask-certified.f2b01b458c722c39f25d.png",
-    "static/media/python-certified.png": "/portfolio-website/static/media/python-certified.ae84b8b51d2850d6e761.png",
-    "static/media/html-certified.png": "/portfolio-website/static/media/html-certified.5693a989a25f3cdc4d22.png",
-    "static/media/t-g.png": "/portfolio-website/static/media/t-g.c75942f33eda715c7c7e.png",
-    "index.html": "/portfolio-website/index.html",
-    "main.8838d697.css.map": "/portfolio-website/static/css/main.8838d697.css.map",
-    "main.4c3899f3.js.map": "/portfolio-website/static/js/main.4c3899f3.js.map"
+    "main.css": "/portfolio-webpage/static/css/main.8838d697.css",
+    "main.js": "/portfolio-webpage/static/js/main.64cb78d7.js",
+    "static/media/a-dj.png": "/portfolio-webpage/static/media/a-dj.eddeeb2a683ff0c9bc48.png",
+    "static/media/f1start.png": "/portfolio-webpage/static/media/f1start.2c5536910a633ef8241b.png",
+    "static/media/sky.png": "/portfolio-webpage/static/media/sky.22336af5c76510ad1552.png",
+    "static/media/javascript-certified.png": "/portfolio-webpage/static/media/javascript-certified.0676c91c0659260a79a4.png",
+    "static/media/nodejs-certified.png": "/portfolio-webpage/static/media/nodejs-certified.a11ab69e488c095d9188.png",
+    "static/media/react-certified.png": "/portfolio-webpage/static/media/react-certified.220fa9d540380f833bf8.png",
+    "static/media/sql-certified.png": "/portfolio-webpage/static/media/sql-certified.dd258341771d4928edf3.png",
+    "static/media/css-certified.png": "/portfolio-webpage/static/media/css-certified.12c4d4c25d8cc7effe2a.png",
+    "static/media/flask-certified.png": "/portfolio-webpage/static/media/flask-certified.f2b01b458c722c39f25d.png",
+    "static/media/python-certified.png": "/portfolio-webpage/static/media/python-certified.ae84b8b51d2850d6e761.png",
+    "static/media/html-certified.png": "/portfolio-webpage/static/media/html-certified.5693a989a25f3cdc4d22.png",
+    "static/media/t-g.png": "/portfolio-webpage/static/media/t-g.c75942f33eda715c7c7e.png",
+    "index.html": "/portfolio-webpage/index.html",
+    "main.8838d697.css.map": "/portfolio-webpage/static/css/main.8838d697.css.map",
+    "main.64cb78d7.js.map": "/portfolio-webpage/static/js/main.64cb78d7.js.map"
   },
   "entrypoints": [
     "static/css/main.8838d697.css",
-    "static/js/main.4c3899f3.js"
+    "static/js/main.64cb78d7.js"
   ]
 }
