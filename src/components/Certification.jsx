@@ -13,7 +13,7 @@ import Node from '../assets/nodejs-certified.png'
 
 
 const Certification = () => {
-  return (
+  return ( 
     <div name="certification" className='w-full h-screen bg-[#5778a5] text-[#0a192f]'>
         {/* CONTAINER */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
@@ -51,7 +51,7 @@ const Certification = () => {
                 </div>
                 <div className='shadow-lg shadow-[#000000] hover:text-[#f7c857] hover:shadow-[#f7c857]  hover:scale-110 duration-500 rounded-full'>
                     <img className='w-20' src={Node} alt="node icon" />
-                    <p className='my-4'>NODE JS</p>
+                    <p className='my-4'>NODE . JS</p>
                 </div>
                 <div className='shadow-lg shadow-[#000000] hover:text-[#f7c857] hover:shadow-[#f7c857] hover:scale-110 duration-500 rounded-full'>
                     <img className='w-20' src={ReactImg} alt="react icon" />

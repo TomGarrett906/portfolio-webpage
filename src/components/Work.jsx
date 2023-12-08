@@ -47,15 +47,19 @@ const Work = () => {
 
 
 
+
+
+
+
           {/* GRID ITEM */}
         <div 
-          style={{backgroundImage: `url(${f1Start})`}} 
+          style={{backgroundImage: `url(${sky})`}} 
           className="hover:shadow-white hover:scale-105 duration-500 shadow-md shadow-[#000000] group container rounded-md flex justify-center items-center mx-auto content-div">
 
             {/* HOVER EFFECT */}
             <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-[#ffffffbd] tracking-wider">
-                Formula 1 API (coming soon)
+                Weather API (coming soon)
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -72,19 +76,15 @@ const Work = () => {
             </div>
           </div>
 
-
-
-
-
           {/* GRID ITEM */}
-        <div 
-          style={{backgroundImage: `url(${sky})`}} 
+          <div 
+          style={{backgroundImage: `url(${f1Start})`}} 
           className="hover:shadow-white hover:scale-105 duration-500 shadow-md shadow-[#000000] group container rounded-md flex justify-center items-center mx-auto content-div">
 
             {/* HOVER EFFECT */}
             <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-[#ffffffbd] tracking-wider">
-                Weather API (coming soon)
+                Formula 1 API (coming soon)
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
